@@ -2,14 +2,14 @@
 
 I’m Shireen Ghazala!
 
-🚀 Full Stack Developer | Java | JavaScript | React | Spring Boot
+**🚀 Full Stack Developer | Java | JavaScript | React | Spring Boot**
 
 I’m a Certified Scrum Master and solution-oriented full stack developer with hands-on experience building scalable applications using Java, Spring Boot, React, Node.js, and MongoDB. With a strong foundation in object-oriented programming, databases, and modern web frameworks, I love turning ideas into robust, user-friendly solutions.
 
 
- 🏫 Currently working on:  Full Stack Projects
+ 🏫 **Currently working on**:  Full Stack Projects
 
- 🔭 Interested in : Artificial Intelligence. Learning to build AI models. 
+ 🔭 **Interested in** : Artificial Intelligence. Learning to build AI models. 
 
 
 
