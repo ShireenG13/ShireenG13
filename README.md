@@ -32,7 +32,7 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 📂  **Featured Projects**
 
-😎 Social Media Microblogging Backend Project - Java + MySql + APIs. Allows users to register, login, view, update and delete messages.
+😎 Social Media Blog API - Java + Javalin + MySql + JDBC. User Registration and Login. Create, view, update and delete messages.
 
 🌍 Refugee Services App
  — Spring Boot + MySQL + Thymeleaf App to register refugees & volunteers with authentication and admin dashboards.
