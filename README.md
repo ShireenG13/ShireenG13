@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there. I’m Shireen Ghazala! 👋
 
-I’m Shireen Ghazala!
+
 
 **🚀 Full Stack Developer | Java | JavaScript | React | Spring Boot**
 
