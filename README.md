@@ -32,6 +32,9 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 📂** Featured Projects**
 
+😎 Social Media Microblogging Backend Project 
+   - Java + MySql + APIs 
+
 🌍 Refugee Services App
  — Spring Boot + MySQL + Thymeleaf app to register refugees & volunteers with authentication and admin dashboards.
 
