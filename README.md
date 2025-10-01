@@ -21,6 +21,8 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 
 
+
+
 📂 Featured Projects
 
 🌍 Refugee Services App
@@ -35,6 +37,8 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 📑 WordPress Portfolio
  — Professional site showcasing my projects and skills.
+
+
 
 
 
@@ -60,6 +64,8 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 
 
+
+
 🌟 About Me
 
 -Based in Memphis, TN (open to relocation)
@@ -69,6 +75,8 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 - Enjoy mentoring, collaboration, and building community-impact projects
 
 - Strong interest in Artificial Intelligence, DSA and full-stack innovation.
+
+
 
 
 📫 Let’s Connect!
