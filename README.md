@@ -1,4 +1,4 @@
-## Hi there. I’m Shireen Ghazala! 👋
+## Hi there! I’m Shireen Ghazala. 👋
 
 
 
