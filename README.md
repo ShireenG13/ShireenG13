@@ -86,8 +86,7 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 💼 https://www.linkedin.com/in/shireen-ghazala/
 
 
-
-🌐 WordPress Portfolio
+🌐 WordPress Portfolio: https://shireenghazala.com/
 
 
 
