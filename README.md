@@ -81,11 +81,11 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 📫 Let’s Connect!
 
-🔗 Portfolio
+🔗 shireen.nu2022@gmail.com
 
-💼 LinkedIn
+💼 https://www.linkedin.com/in/shireen-ghazala/
 
-🖥️ GitHub
+
 
 🌐 WordPress Portfolio
 
