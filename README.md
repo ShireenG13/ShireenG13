@@ -6,6 +6,7 @@ I’m Shireen Ghazala!
 
 I’m a Certified Scrum Master and solution-oriented full stack developer with hands-on experience building scalable applications using Java, Spring Boot, React, Node.js, and MongoDB. With a strong foundation in object-oriented programming, databases, and modern web frameworks, I love turning ideas into robust, user-friendly solutions.
 
+
 🛠️ Tech Stack
 
 Languages & Frameworks: Java SE/EE, Spring, Hibernate, JPA, JavaScript, React.js, React Native, Node.js, Express.js. JQuery, Angular.js
@@ -17,6 +18,7 @@ Backend & Databases: MySQL, MongoDB, JDBC, REST APIs, Microservices
 DevOps & Tools: Git, GitHub, Maven, Jenkins, JUnit, CI/CD pipelines, JIRA, SonarQube
 
 Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
+
 
 
 📂 Featured Projects
@@ -33,6 +35,7 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 📑 WordPress Portfolio
  — Professional site showcasing my projects and skills.
+
 
 
  🎓 Education & Certifications
@@ -54,7 +57,8 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 - Responsive Web Design (freeCodeCamp)
 
 - Software Development Life Cycle (LinkedIn Learning)
-- 
+
+
 
 🌟 About Me
 
@@ -65,6 +69,7 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 - Enjoy mentoring, collaboration, and building community-impact projects
 
 - Strong interest in Artificial Intelligence, DSA and full-stack innovation.
+
 
 📫 Let’s Connect!
 
