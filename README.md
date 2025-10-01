@@ -14,7 +14,7 @@ I’m a Certified Scrum Master and solution-oriented full stack developer with h
 
 
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Languages & Frameworks: Java SE/EE, Spring, Hibernate, JPA, JavaScript, React.js, React Native, Node.js, Express.js. JQuery, Angular.js
 
@@ -30,7 +30,7 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 
 
-📂** Featured Projects**
+📂  **Featured Projects**
 
 😎 Social Media Microblogging Backend Project 
    - Java + MySql + APIs 
@@ -52,7 +52,7 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 
 
- 🎓 Education & Certifications
+ 🎓 **Education & Certifications**
 
 - Full Stack Java Development – Per Scholas (2024–2025)
 
@@ -62,7 +62,7 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 - BSc (Computer Science & Business Admin) – Osmania University
 
-🏅 Certifications:
+🏅 **Certifications**
 
 - Certified ScrumMaster® (Scrum Alliance)
 
@@ -76,7 +76,7 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 
 
-🌟 About Me
+🌟 **About Me**
 
 -Based in Memphis, TN (open to relocation)
 
@@ -89,7 +89,7 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 
 
-📫 Let’s Connect!
+📫 **Let’s Connect!**
 
 🔗 Email: shireen.nu2022@gmail.com
 
