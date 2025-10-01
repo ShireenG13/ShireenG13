@@ -32,11 +32,10 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 📂  **Featured Projects**
 
-😎 Social Media Microblogging Backend Project 
-   - Java + MySql + APIs 
+😎 Social Media Microblogging Backend Project - Java + MySql + APIs. Allows users to register, login, view, update and delete messages.
 
 🌍 Refugee Services App
- — Spring Boot + MySQL + Thymeleaf app to register refugees & volunteers with authentication and admin dashboards.
+ — Spring Boot + MySQL + Thymeleaf App to register refugees & volunteers with authentication and admin dashboards.
 
 ☕ Coffee Shop App — Responsive Firebase-backed web app built with HTML, CSS, Bootstrap, and JavaScript.
 
