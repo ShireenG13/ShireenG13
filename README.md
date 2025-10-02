@@ -51,7 +51,7 @@ Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
 
 
 
- 🎓 **Education & Certifications**
+ 🎓 **Education**
 
 - Full Stack Java Development – Per Scholas (2024–2025)
 
