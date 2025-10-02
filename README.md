@@ -92,7 +92,7 @@ Other: Scrum/Agile, SDLC, Security Best Practices
 
 🔗 Email: shireen.nu2022@gmail.com
 
-💼 Portfolio: https://www.linkedin.com/in/shireen-ghazala/
+💼 LinkedIn: https://www.linkedin.com/in/shireen-ghazala/
 
 
 🌐 WordPress Portfolio: https://shireenghazala.com/
