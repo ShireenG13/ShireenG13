@@ -24,7 +24,7 @@ Backend & Databases: MySQL, MongoDB, JDBC, REST APIs, Microservices
 
 DevOps & Tools: Git, GitHub, Maven, Jenkins, JUnit, CI/CD pipelines, JIRA, SonarQube
 
-Other: Scrum/Agile, SDLC, Cloud Deployment, Security Best Practices
+Other: Scrum/Agile, SDLC, Security Best Practices
 
 
 
