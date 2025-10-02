@@ -4,7 +4,7 @@
 
 **🚀 Full Stack Developer | Java | JavaScript | React | Spring Boot**
 
-I’m a Certified Scrum Master and solution-oriented full stack developer with hands-on experience building scalable applications using Java, Spring Boot, React, Node.js, and MongoDB. With a strong foundation in object-oriented programming, databases, and modern web frameworks, I love turning ideas into robust, user-friendly solutions.
+I’m a Certified Scrum Master and solution-oriented Full-Stack Developer with hands-on experience building scalable applications using Java, Spring Boot, React, Node.js, and MongoDB. With a strong foundation in object-oriented programming, databases, and modern web frameworks, I love turning ideas into robust, user-friendly solutions.
 
 
  🏫 **Currently working on**:  Full Stack Projects
